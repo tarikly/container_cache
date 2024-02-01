@@ -67,3 +67,5 @@ https://blog.alexellis.io/how-to-configure-multiple-docker-registry-mirrors/
 https://docs.docker.com/docker-hub/mirror/#:~:text=Run%20a%20Registry%20as%20a,described%20in%20the%20following%20subsection.
 
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/building_running_and_managing_containers/working-with-container-registries_building-running-and-managing-containers
+
+https://gdevillele.github.io/registry/configuration/
